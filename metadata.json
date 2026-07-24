@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Abastecimento NFC",
+  "description": "Sistema de gestão e validação de abastecimento de frotas via cartão NFC com autenticação por PIN do motorista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
